@@ -1,7 +1,7 @@
 <h1>Keylogger in Python</h1>
 
 <h2>Description</h2>
-This is a keylogger written in Python. The keylogger will log your keystrokes, format them for easier readability, write them to a file, and email you the logs as well.
+This is a simple keylogger written in Python. The keylogger will log your keystrokes and write them to a text file that is formatted for easier readability. I am planning to add features like emailing you the logged keystrokes and more in the future.
 
 
 <!--
